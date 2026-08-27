@@ -1,0 +1,67 @@
+{
+  "top_k": 5,
+  "evaluated_users": 160,
+  "hit_rate": 0.15,
+  "topic_hit_rate": 0.425,
+  "ndcg": 0.0948,
+  "catalog_coverage": 0.9844,
+  "train_interactions": 2097,
+  "holdout_interactions": 160,
+  "examples": [
+    {
+      "user_id": "user_001",
+      "holdout": "res_009",
+      "recommended": [
+        "res_008",
+        "res_001",
+        "res_005",
+        "res_037",
+        "res_004"
+      ]
+    },
+    {
+      "user_id": "user_002",
+      "holdout": "res_041",
+      "recommended": [
+        "res_037",
+        "res_044",
+        "res_026",
+        "res_043",
+        "res_014"
+      ]
+    },
+    {
+      "user_id": "user_003",
+      "holdout": "res_001",
+      "recommended": [
+        "res_045",
+        "res_036",
+        "res_044",
+        "res_003",
+        "res_041"
+      ]
+    },
+    {
+      "user_id": "user_004",
+      "holdout": "res_029",
+      "recommended": [
+        "res_064",
+        "res_037",
+        "res_006",
+        "res_004",
+        "res_009"
+      ]
+    },
+    {
+      "user_id": "user_005",
+      "holdout": "res_030",
+      "recommended": [
+        "res_014",
+        "res_044",
+        "res_031",
+        "res_063",
+        "res_037"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+﻿resource_id,title,topic,difficulty,type,duration_min,tags
+res_001,Python 基础语法课程,python,实战,课程,60,python 实战 课程 engineering
+res_002,Python 基础语法题单,python,基础,题单,40,python 基础 题单 engineering
+res_003,pandas 数据处理实验,python,实战,实验,120,python 实战 实验 engineering
+res_004,pandas 数据处理课程,python,基础,课程,120,python 基础 课程 engineering
+res_005,Python 自动化脚本项目,python,基础,项目,25,python 基础 项目 engineering
+res_006,Python 自动化脚本课程,python,基础,课程,40,python 基础 课程 engineering
+res_007,NumPy 数值计算题单,python,实战,题单,40,python 实战 题单 engineering
+res_008,NumPy 数值计算课程,python,实战,课程,120,python 实战 课程 engineering
+res_009,机器学习入门项目,machine_learning,进阶,项目,120,machine_learning 进阶 项目 algorithm
+res_010,机器学习入门实验,machine_learning,进阶,实验,25,machine_learning 进阶 实验 algorithm
+res_011,分类模型评估实验,machine_learning,进阶,实验,60,machine_learning 进阶 实验 algorithm
+res_012,分类模型评估项目,machine_learning,基础,项目,40,machine_learning 基础 项目 algorithm
+res_013,特征工程实战文章,machine_learning,基础,文章,90,machine_learning 基础 文章 algorithm
+res_014,特征工程实战课程,machine_learning,基础,课程,60,machine_learning 基础 课程 algorithm
+res_015,模型调参与交叉验证文章,machine_learning,基础,文章,90,machine_learning 基础 文章 algorithm
+res_016,模型调参与交叉验证题单,machine_learning,实战,题单,25,machine_learning 实战 题单 algorithm
+res_017,PyTorch 张量基础项目,deep_learning,实战,项目,60,deep_learning 实战 项目 algorithm
+res_018,PyTorch 张量基础课程,deep_learning,实战,课程,120,deep_learning 实战 课程 algorithm
+res_019,神经网络训练流程文章,deep_learning,实战,文章,25,deep_learning 实战 文章 algorithm
+res_020,神经网络训练流程实验,deep_learning,基础,实验,40,deep_learning 基础 实验 algorithm
+res_021,CNN 图像分类文章,deep_learning,基础,文章,25,deep_learning 基础 文章 algorithm
+res_022,CNN 图像分类课程,deep_learning,进阶,课程,60,deep_learning 进阶 课程 algorithm
+res_023,文本分类模型项目,deep_learning,基础,项目,60,deep_learning 基础 项目 algorithm
+res_024,文本分类模型文章,deep_learning,进阶,文章,40,deep_learning 进阶 文章 algorithm
+res_025,中文分词与文本清洗文章,nlp,实战,文章,40,nlp 实战 文章 algorithm
+res_026,中文分词与文本清洗课程,nlp,实战,课程,40,nlp 实战 课程 algorithm
+res_027,TF-IDF 与文本相似度实验,nlp,进阶,实验,60,nlp 进阶 实验 algorithm
+res_028,TF-IDF 与文本相似度项目,nlp,实战,项目,120,nlp 实战 项目 algorithm
+res_029,RAG 知识库问答实验,nlp,基础,实验,40,nlp 基础 实验 algorithm
+res_030,RAG 知识库问答文章,nlp,基础,文章,60,nlp 基础 文章 algorithm
+res_031,Prompt 工程实践项目,nlp,基础,项目,40,nlp 基础 项目 algorithm
+res_032,Prompt 工程实践文章,nlp,实战,文章,60,nlp 实战 文章 algorithm
+res_033,Flask 接口开发实验,web_backend,进阶,实验,90,web_backend 进阶 实验 engineering
+res_034,Flask 接口开发项目,web_backend,基础,项目,60,web_backend 基础 项目 engineering
+res_035,REST API 设计实验,web_backend,实战,实验,120,web_backend 实战 实验 engineering
+res_036,REST API 设计题单,web_backend,实战,题单,60,web_backend 实战 题单 engineering
+res_037,SQLite 项目实践题单,web_backend,实战,题单,90,web_backend 实战 题单 engineering
+res_038,SQLite 项目实践项目,web_backend,进阶,项目,40,web_backend 进阶 项目 engineering
+res_039,用户登录与权限实验,web_backend,基础,实验,25,web_backend 基础 实验 engineering
+res_040,用户登录与权限项目,web_backend,基础,项目,40,web_backend 基础 项目 engineering
+res_041,Linux 常用命令实验,linux,实战,实验,25,linux 实战 实验 engineering
+res_042,Linux 常用命令项目,linux,进阶,项目,90,linux 进阶 项目 engineering
+res_043,Shell 脚本题单,linux,实战,题单,60,linux 实战 题单 engineering
+res_044,Shell 脚本项目,linux,实战,项目,25,linux 实战 项目 engineering
+res_045,Socket 网络编程课程,linux,实战,课程,60,linux 实战 课程 engineering
+res_046,Socket 网络编程文章,linux,基础,文章,60,linux 基础 文章 engineering
+res_047,Git 团队协作项目,linux,进阶,项目,25,linux 进阶 项目 engineering
+res_048,Git 团队协作实验,linux,实战,实验,60,linux 实战 实验 engineering
+res_049,线性代数复习题单,math,实战,题单,25,math 实战 题单
+res_050,线性代数复习实验,math,实战,实验,60,math 实战 实验
+res_051,概率论基础题单,math,基础,题单,60,math 基础 题单
+res_052,概率论基础实验,math,基础,实验,120,math 基础 实验
+res_053,最优化方法题单,math,实战,题单,60,math 实战 题单
+res_054,最优化方法课程,math,进阶,课程,25,math 进阶 课程
+res_055,统计分析入门课程,math,进阶,课程,40,math 进阶 课程
+res_056,统计分析入门文章,math,基础,文章,40,math 基础 文章
+res_057,算法岗简历优化题单,career,基础,题单,90,career 基础 题单
+res_058,算法岗简历优化课程,career,基础,课程,120,career 基础 课程
+res_059,项目面试表达实验,career,实战,实验,90,career 实战 实验
+res_060,项目面试表达题单,career,实战,题单,40,career 实战 题单
+res_061,技术博客写作文章,career,基础,文章,120,career 基础 文章
+res_062,技术博客写作项目,career,实战,项目,40,career 实战 项目
+res_063,GitHub 项目维护文章,career,实战,文章,60,career 实战 文章
+res_064,GitHub 项目维护项目,career,进阶,项目,120,career 进阶 项目

@@ -1,0 +1,13 @@
+[project]
+name = "student-growth-recommender"
+version = "1.0.0"
+description = "Hybrid learning resource recommender with offline evaluation"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "pandas>=3.0.0",
+    "numpy>=2.0.0",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
