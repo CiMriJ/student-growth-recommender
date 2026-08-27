@@ -14,14 +14,13 @@
 ## 快速开始
 
 ```bash
-pip install -r requirements.txt
+python -m pip install -e .
 python scripts/run_pipeline.py
 ```
 
 推荐示例：
 
 ```bash
-set PYTHONPATH=src
 python -m growth_recommender.cli recommend user_001 --top-k 5
 ```
 
